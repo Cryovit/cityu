@@ -1,10 +1,10 @@
-# cityu-cs.github.io
+# gorandint.github.io
 
 A website to help students from [City University of Hong Kong](https://www.cityu.edu.hk/) to schedule their courses easily.
 
 ## How to use
 
-This website is hosted at [https://cityu-cs.github.io/](https://cityu-cs.github.io/).
+This website is hosted at [https://gorandint.github.io/](https://gorandint.github.io/).
 
 ## Project Milestone
 
